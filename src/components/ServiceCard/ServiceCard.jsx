@@ -1,7 +1,7 @@
 const ServiceCard = ({ service }) => {
     const {cost,description,image,treatment} = service
   return (
-    <div className="card bg-base-100 shadow-xl">
+    <div className="card bg-base-100 shadow-xl mb-5">
       <figure>
         <img
         className="flex-grow"

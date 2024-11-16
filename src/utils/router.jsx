@@ -7,34 +7,42 @@ import MyAppointments from "../MyAppointments/MyAppointments";
 import Profile from "../profile/Profile";
 
 const router = createBrowserRouter([
-    {
-      path: "/",
-      element: <MainLayout></MainLayout>,
-      children:[
-        {
-            path:"/",
-            element:<Home></Home>,
-            loader:()=> fetch("/service.json")
-        },
-        {
-            path:"/treatments",
-            element:<AllTreatment></AllTreatment>,
-            loader:()=> fetch("/service.json")
-        },
-        {
-            path:"/appointments",
-            element:<MyAppointments></MyAppointments>
-        },
-        {
-            path:"/about",
-            element:<About></About>
-        },
-        {
-            path:"/profile",
-            element:<Profile></Profile>
-        },
-      ]
-    },
-  ]);
+  {
+    path: "/",
+    element: <MainLayout></MainLayout>,
+    children: [
+      {
+        path: "/",
+        element: <Home></Home>,
+        loader: async () => {
+          const servicesRes = await fetch("/service.json");
+          const servicesData = await servicesRes.json();
 
-  export default router;
+          const feedbackRes = await fetch("/happyClients.json");
+          const feedbackData = await feedbackRes.json();
+
+          return {servicesData,feedbackData}
+        },
+      },
+      {
+        path: "/treatments",
+        element: <AllTreatment></AllTreatment>,
+        loader: () => fetch("/service.json"),
+      },
+      {
+        path: "/appointments",
+        element: <MyAppointments></MyAppointments>,
+      },
+      {
+        path: "/about",
+        element: <About></About>,
+      },
+      {
+        path: "/profile",
+        element: <Profile></Profile>,
+      },
+    ],
+  },
+]);
+
+export default router;
