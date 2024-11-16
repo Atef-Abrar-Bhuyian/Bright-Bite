@@ -1,0 +1,63 @@
+[
+    {
+      "reviewId": "6",
+      "name": "Rachel Green",
+      "userImg": "https://www.example.com/images/rachel_green.jpg",
+      "review": "I’m so glad I chose Bright Bite! The service was exceptional, and the treatment was painless. The staff really makes you feel at home."
+    },
+    {
+      "reviewId": "7",
+      "name": "James Wilson",
+      "userImg": "https://www.example.com/images/james_wilson.jpg",
+      "review": "Wonderful experience! The dentist was very professional, and the clinic is state-of-the-art. I highly recommend Bright Bite to anyone looking for quality dental care."
+    },
+    {
+      "reviewId": "8",
+      "name": "Olivia Taylor",
+      "userImg": "https://www.example.com/images/olivia_taylor.jpg",
+      "review": "I’ve been coming to Bright Bite for years, and I always feel taken care of. The team is knowledgeable, and they use the latest technology to ensure the best results."
+    },
+    {
+      "reviewId": "9",
+      "name": "Daniel Martinez",
+      "userImg": "https://www.example.com/images/daniel_martinez.jpg",
+      "review": "The best dental experience I've ever had! I came in for a routine check-up, and the staff made it quick and painless. I will definitely be back."
+    },
+    {
+      "reviewId": "10",
+      "name": "Sophia Robinson",
+      "userImg": "https://www.example.com/images/sophia_robinson.jpg",
+      "review": "Amazing service and very friendly staff! They took the time to explain all the steps of my treatment. I feel so much better after my visit!"
+    },
+    {
+      "reviewId": "11",
+      "name": "Lucas Anderson",
+      "userImg": "https://www.example.com/images/lucas_anderson.jpg",
+      "review": "Highly recommended! The clinic is clean, and the staff is very professional. I had a great experience getting my teeth cleaned here."
+    },
+    {
+      "reviewId": "12",
+      "name": "Ava Johnson",
+      "userImg": "https://www.example.com/images/ava_johnson.jpg",
+      "review": "The team at Bright Bite is simply the best. They made me feel comfortable and explained everything so well. I will definitely return for future treatments."
+    },
+    {
+      "reviewId": "13",
+      "name": "Ethan Harris",
+      "userImg": "https://www.example.com/images/ethan_harris.jpg",
+      "review": "I’ve been to several dentists in the past, but Bright Bite is by far the best. They are very attentive, and the care is top-notch. I won’t go anywhere else!"
+    },
+    {
+      "reviewId": "14",
+      "name": "Mia Clark",
+      "userImg": "https://www.example.com/images/mia_clark.jpg",
+      "review": "I had an excellent experience at Bright Bite. The dentist and staff were so kind, and the treatment was pain-free. I can’t recommend them enough!"
+    },
+    {
+      "reviewId": "15",
+      "name": "William Scott",
+      "userImg": "https://www.example.com/images/william_scott.jpg",
+      "review": "Excellent care and service. The staff was friendly and knowledgeable. I was impressed by how thorough they were during my dental exam."
+    }
+  ]
+  
