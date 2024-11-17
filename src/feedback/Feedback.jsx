@@ -6,7 +6,7 @@ const Feedback = ({ feedbackData }) => {
           <div className="card-body">
             <div className="flex gap-2">
               <img
-                className="w-12 h-12 rounded-full border-2"
+                className="w-12 h-12 rounded-full"
                 src={feedback.userImg}
                 alt=""
               />
