@@ -6,6 +6,8 @@ import AllTreatment from "../components/AllTreatment/AllTreatment";
 import MyAppointments from "../MyAppointments/MyAppointments";
 import Profile from "../profile/Profile";
 import Details from "../components/details/Details";
+import Login from "../components/Login/Login";
+import Register from "../components/Register/Register";
 
 const router = createBrowserRouter([
   {
@@ -52,6 +54,15 @@ const router = createBrowserRouter([
           const singleData = data.find(d=> d.id == params.id)
           return singleData;
         },
+      },
+
+      {
+        path:"/login",
+        element:<Login></Login>
+      },
+      {
+        path:"/register",
+        element:<Register></Register>
       },
     ],
   },

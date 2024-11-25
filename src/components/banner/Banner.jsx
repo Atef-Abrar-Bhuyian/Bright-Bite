@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom";
 import bannerPic from "../../assets/images/banner.png";
 
 const Banner = () => {
@@ -10,7 +11,7 @@ const Banner = () => {
           <p className="py-6">
           Experience expert dental care in a friendly environment. At Bright Bite, we’re dedicated to giving you a brilliant, healthy smile. Start your journey to exceptional oral health today.
           </p>
-          <button className="btn btn-primary">Book Now</button>
+          <Link to="/treatments" className="btn btn-accent">Book Now</Link>
         </div>
       </div>
     </div>

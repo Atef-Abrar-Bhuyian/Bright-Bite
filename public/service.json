@@ -2,56 +2,56 @@
     {
       "id": 1,
       "treatment": "Teeth Whitening",
-      "image": "https://example.com/images/teeth-whitening.jpg",
+      "image": "https://i.ibb.co.com/3k0dWG9/28e14e7a-a138-4361-9233-bac3c77d1f41.jpg",
       "description": "Brighten your smile with our professional teeth whitening services. Our advanced techniques and safe bleaching agents effectively remove stains and discoloration, giving you a whiter, more radiant smile.",
       "cost": "$150"
     },
     {
       "id": 2,
       "treatment": "Dental Implants",
-      "image": "https://example.com/images/dental-implants.jpg",
+      "image": "https://i.ibb.co.com/42tV5dm/47bff121-145a-4e86-9359-b61cc6aa1419.jpg",
       "description": "Replace missing teeth with durable and natural-looking dental implants. Our skilled dentists ensure a comfortable and precise fit, restoring both function and aesthetics to your smile.",
       "cost": "$2000"
     },
     {
       "id": 3,
       "treatment": "Orthodontics",
-      "image": "https://example.com/images/orthodontics.jpg",
+      "image": "https://i.ibb.co.com/F0S4WTG/f25cd5d5-dd3f-43b4-b673-821ff3b4098d.jpg",
       "description": "Straighten your teeth with our advanced orthodontic treatments. From traditional braces to clear aligners, we offer customized solutions to align your teeth and improve your bite for a healthier, more attractive smile.",
       "cost": "$3000"
     },
     {
       "id": 4,
       "treatment": "Root Canal Therapy",
-      "image": "https://example.com/images/root-canal.jpg",
+      "image": "https://i.ibb.co.com/Dg0QPPH/c7b54e6c-e79a-45c6-84d2-e4fcc4dd5b1c.jpg",
       "description": "Relieve pain and save your tooth with our expert root canal therapy. Our gentle approach and state-of-the-art equipment ensure a comfortable experience while effectively treating infections and preserving your natural tooth.",
       "cost": "$800"
     },
     {
       "id": 5,
       "treatment": "Dental Cleaning",
-      "image": "https://example.com/images/dental-cleaning.jpg",
+      "image": "https://i.ibb.co.com/Gpk0ZYc/8ab69dc6-c73c-49a5-b935-2827d1618447.jpg",
       "description": "Maintain oral health with our thorough dental cleaning services. Our hygienists remove plaque, tartar, and surface stains, leaving your teeth feeling fresh and your gums healthy. Regular cleanings are essential for preventing cavities and gum disease.",
       "cost": "$100"
     },
     {
       "id": 6,
       "treatment": "Veneers",
-      "image": "https://example.com/images/veneers.jpg",
+      "image": "https://i.ibb.co.com/rpBmbZh/fde1de11-d12a-493e-acb9-23558823dc87.jpg",
       "description": "Enhance the appearance of your teeth with custom-made veneers. These thin shells cover the front surface of your teeth, correcting imperfections such as chips, gaps, and discoloration for a flawless, natural-looking smile.",
       "cost": "$1200"
     },
     {
       "id": 7,
       "treatment": "Tooth Extraction",
-      "image": "https://example.com/images/tooth-extraction.jpg",
+      "image": "https://i.ibb.co.com/brHnZ9b/dfc32252-d2cd-4f37-a03f-0c77143e23a2.jpg",
       "description": "Safe and painless tooth extraction by our experienced professionals. Whether it's a damaged, decayed, or impacted tooth, we use gentle techniques to ensure minimal discomfort and a smooth recovery.",
       "cost": "$200"
     },
     {
       "id": 8,
       "treatment": "Gum Treatment",
-      "image": "https://example.com/images/gum-treatment.jpg",
+      "image": "https://i.ibb.co.com/chdW7LT/4107c4df-0b1c-4d22-beb7-5c5839648127.jpg",
       "description": "Effective treatment for gum disease to maintain healthy gums. Our comprehensive care includes deep cleaning, scaling, and root planing to combat periodontal disease and promote overall oral health.",
       "cost": "$400"
     }

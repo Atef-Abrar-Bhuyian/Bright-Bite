@@ -3,6 +3,7 @@ import Banner from "../banner/Banner";
 import ServiceCard from "../ServiceCard/ServiceCard";
 import Feedback from "../../feedback/Feedback";
 
+
 const Home = () => {
   const services = useLoaderData();
   const { servicesData, feedbackData } = services;
